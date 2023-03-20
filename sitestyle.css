@@ -1,0 +1,132 @@
+<!-- HEAD Includes -->
+<style>
+
+@font-face { font-family: cachet-std; src: url('/uploads/2023/01/cachet-std-medium.otf'); }
+@font-face { font-family: cachet-std; font-weight: bold; src: url('/uploads/2023/01/cachet-std-bold.otf'); }
+
+.slick-carousel {
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	background:0 0;
+	margin:0;
+	margin-bottom:30px;
+	overflow:show;
+}
+
+.slick-prev:before {
+	color :#ababab;
+}
+.slick-next:before {
+	color :#ababab;
+}
+
+body 
+{
+   font-family: verdana;
+}
+
+/*Updated Font Headers*/
+.sf-with-ul
+{
+	font-family: cachet-std, verdana;
+}
+
+h1
+{
+	font-family: cachet-std, verdana;
+}
+
+/*Buttons found on homescreen and ???*/
+btn.btn-lg.btn-block.btn-primary
+{
+   background-color: #0089d0;
+}
+
+a
+{
+	font-family: cachet-std, verdana;
+}
+
+p
+{
+	font-family: cachet-std, verdana;	
+}
+
+h2
+{
+	font-family: cachet-std, verdana;	
+}
+
+span
+{
+	font-family: cachet-std, verdana;
+}
+
+/*Found on history-of-our-y*/
+.col-sm-12
+{
+	font-family: cachet-std, verdana;
+}
+
+.container footer-container pl-4 pr-4 pt-5 pb-5
+{
+	font-family: cachet-std, verdana;
+}
+
+.h5
+{
+	font-family: cachet-std, verdana;
+}
+
+.slick-carousel .slick-slide.style-light-dark .slick-info .slick-info-inner .slick-link a.btn-default
+{
+	background-color: #01a490;
+}
+
+.slick-carousel .slick-slide.style-light-dark .slick-info .slick-info-inner .slick-link a.btn-default:hover
+{
+	background-color: #018b7a;
+}
+
+/*Text that appears on the bottom homepage callout*/
+.callout-photo.style-none-dark .callout-info .callout-title {
+  color: #01a490;
+  font-family: cachet-std, verdana;
+}
+
+.callout-photo.style-none-dark .callout-info .callout-teaser {
+  color: #333;
+  font-family: cachet-std, verdana;
+}
+
+/*top nav*/
+.top-nav .sf-menu li li {
+  height: auto;
+  background: #01a490;
+}
+
+.top-nav .sf-menu li li:hover {
+  height: auto;
+  background: #018b7a;
+}
+
+.sf-with-ul
+{
+	background: #01a490;
+}
+
+.sf-with-ul:hover 
+{
+	background: #018b7a;
+}
+
+.top-nav .sf-menu li li li a 
+{
+	background: #01a490;
+}
+
+.top-nav .sf-menu li li li a:hover
+{
+	background: #018b7a;
+}
+</style>
